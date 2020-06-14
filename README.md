@@ -7,7 +7,6 @@
 - 玩
 - 乐
 
-
 喜欢的零食有
 
 1. 樱桃味可乐
@@ -19,7 +18,7 @@
 ```java
 public class Test {
 ​   public static void main(String[] args){
-​		System.out.println("Hello World");
+​	    System.out.println("Hello World");
 ​	}
 }
 ```
